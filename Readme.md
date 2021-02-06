@@ -3,13 +3,13 @@
 ## Why ?
 
 My mother always ask me "What's on TV tonight ?". Even if I taught her how to use the tv programme website, I decided 
-to find another way to solve this problem, by scraping the data from this website and displaying the results on a 
-screen. 
+to find another way to solve this problem, by scraping the data from this website and displaying filtered results.
 
 ## Organization of the repo
 
 - choose_programme.ipynb is the notebook version of my whole project (webscraping, programme_type selection) which 
-displays a final dataframe where you'll find all the programmes from the type you want to see  
+displays a final dataframe where you'll find all the programmes from the type you want to see 
+- working on a webapp  
 
 ## Some help
 
